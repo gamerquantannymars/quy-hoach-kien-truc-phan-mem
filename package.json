@@ -1,0 +1,12 @@
+{
+  "name": "quy-hoach-kien-truc-phan-mem",
+  "version": "1.0.0",
+  "description": "Dự án giúp quy hoạch kiến trúc phần mềm cho ứng dụng web theo microservices.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
